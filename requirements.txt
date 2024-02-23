@@ -1,0 +1,8 @@
+fastapi == 0.65.1 
+
+uvicorn == 0.14.0
+# fast ascii server 
+
+motor == 2.4.0
+#motor is a full featured non blocking IO mongoDB driver.
+# mainly for python. 
